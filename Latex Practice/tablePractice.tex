@@ -1,0 +1,49 @@
+%ampersands as column seperators
+% \ \ as row seperators
+
+\documentclass{article}
+
+\begin{document}
+
+\begin{table}[h!]
+  \begin{center}
+    \caption{Caption for the table.}
+    \label{tab:table1}
+    \begin{tabular}{|l|c|r|}
+	\hline
+      1 & 2 & 3\\
+      \hline
+      a & b & c\\
+	\hline
+    \end{tabular}
+  \end{center}
+\end{table}
+
+\begin{table}[h!]
+  \begin{center}
+      \caption{my own table}
+       \label{tab:table2}
+	\begin{tabular}{|l|c|r|}
+	   \hline
+	val1 & val2 & val 3 \\
+	\hline
+	1 & 7 & 9 \\
+	1 & 5 & 10 \\
+	\hline
+	\end{tabular}
+	\end{center}
+	\end{table}
+	
+%use ref to get table number and shiz
+%structure for tables
+%begin table [h!]
+%begin{pos}
+%give caption & label
+%begin tabular with layout l c r etc.
+%add data lines etc.
+%end everything
+
+\newpage
+\listoftables
+
+\end{document}
