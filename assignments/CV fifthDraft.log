@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.3)  28 OCT 2015 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.3)  28 OCT 2015 16:39
 entering extended mode
 **"C:/Users/Charlie/Documents/ProComp/assignments/CV fifthDraft.tex"
 ("C:/Users/Charlie/Documents/ProComp/assignments/CV fifthDraft.tex"
@@ -138,7 +138,7 @@ sion, Computer Se-cu-rity and C/C++
 [1
 
 {C:/Users/Charlie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 78--84
+Underfull \hbox (badness 10000) in paragraph at lines 87--93
 
  []
 
@@ -150,7 +150,7 @@ Here is how much of TeX's memory you used:
  4196 multiletter control sequences out of 15000+200000
  10734 words of font info for 37 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
- 24i,6n,32p,732b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,6n,32p,561b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
@@ -160,7 +160,7 @@ s/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 msy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
-Output written on "CV fifthDraft.pdf" (2 pages, 116194 bytes).
+Output written on "CV fifthDraft.pdf" (2 pages, 115893 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
